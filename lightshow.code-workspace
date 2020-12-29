@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "../lightshow-arduino"
+		},
+		{
+			"path": "../lightshow-patterns"
 		}
 	],
 	"settings": {}
