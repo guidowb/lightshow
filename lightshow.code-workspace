@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../lightshow-render"
+		},
+		{
+			"path": "../lightshow-server"
+		},
+		{
+			"path": "../lightshow-arduino"
+		}
+	],
+	"settings": {}
+}
